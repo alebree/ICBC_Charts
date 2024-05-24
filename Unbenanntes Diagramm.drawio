@@ -1,0 +1,158 @@
+<mxfile host="app.diagrams.net" modified="2024-05-24T17:18:07.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="DU3bpXwDeuMBha0fBQRu" version="24.4.8" type="github">
+  <diagram name="Seite-1" id="W82PlnvRWBCRj4MligmQ">
+    <mxGraphModel dx="1270" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-36" value="2 ETH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-35" target="ZjJuexm5JRDCjWlvDGG2-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-35" value="au1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="105" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-37" target="ZjJuexm5JRDCjWlvDGG2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-37" value="Rug pull with token &quot;DIO INO&quot;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-39" target="ZjJuexm5JRDCjWlvDGG2-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-39" value="au1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="395" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-40" target="ZjJuexm5JRDCjWlvDGG2-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="744" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-40" value="Evonax Coin-swap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-43" value="FTXdeposit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-45" target="ZjJuexm5JRDCjWlvDGG2-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-45" value="FTXhot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="105" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-46" target="ZjJuexm5JRDCjWlvDGG2-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-46" value="Evonax Coin-swap&lt;div&gt;ETH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-48" target="ZjJuexm5JRDCjWlvDGG2-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-48" value="au2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-51" target="ZjJuexm5JRDCjWlvDGG2-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-51" value="au2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="105" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-52" target="ZjJuexm5JRDCjWlvDGG2-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-52" value="Rug pull with token &quot;MADARA INO&quot;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-55" value="au2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-57" target="ZjJuexm5JRDCjWlvDGG2-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-57" value="Evonax Coin-swap&lt;div&gt;ETH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-60" value="FTXdeposit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-64" value="2 ETH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-65" target="ZjJuexm5JRDCjWlvDGG2-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-65" target="ZjJuexm5JRDCjWlvDGG2-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-65" value="au1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="105" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-67" target="ZjJuexm5JRDCjWlvDGG2-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="500" />
+              <mxPoint x="145" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-67" value="Rug pull with token &quot;DIO INU&quot;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-71" target="ZjJuexm5JRDCjWlvDGG2-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-71" value="Evonax Coin-swap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-72" target="ZjJuexm5JRDCjWlvDGG2-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-72" value="FTXdeposit" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-74" target="ZjJuexm5JRDCjWlvDGG2-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-74" value="FTXhot" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-76" target="ZjJuexm5JRDCjWlvDGG2-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-76" value="Evonax Coin-swap&lt;div&gt;ETH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-78" target="ZjJuexm5JRDCjWlvDGG2-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-93" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;5.58 ETH&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-78" target="ZjJuexm5JRDCjWlvDGG2-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="949.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-78" value="au2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-82" target="ZjJuexm5JRDCjWlvDGG2-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="473.9999999999998" y="889.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="850" />
+              <mxPoint x="640" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-82" value="Rug pull with token &quot;MADARA INU&quot;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-94" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;5.58 ETH&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjJuexm5JRDCjWlvDGG2-85" target="ZjJuexm5JRDCjWlvDGG2-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjJuexm5JRDCjWlvDGG2-85" value="Evonax Coin-swap&lt;div&gt;ETH&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
